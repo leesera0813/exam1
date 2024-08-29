@@ -7,3 +7,5 @@ master
 깃은 재미있습니다.
 gildong이가 두번째로 작성합니다.
 git is fun
+gildong이가 세 번째로 수정합니다.
+즐거운 시간~
